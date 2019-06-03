@@ -31,7 +31,7 @@ Space         - return start properties.
 ##### Input file :
 
 
-![Alt text](/Users/aperesad/Desktop/2.png?raw=true)
+![Alt text](~/Desktop/2.png?raw=true)
 
 
 ##### Result:
