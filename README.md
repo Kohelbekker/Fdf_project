@@ -37,10 +37,11 @@ Space         - return start properties.
 
 ##### Result:
 
-![Alt text](http://Users/aperesad/Desktop/4.png?raw=true)
+<img width="1992" alt="4" src="https://user-images.githubusercontent.com/25118092/58811553-ad8ca400-8628-11e9-89a0-d8a9b1c6317d.png">
+
 
 ##### Other images:
 
-![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.47.15\ PM.png?raw=true)
+<img width="2000" alt="1" src="https://user-images.githubusercontent.com/25118092/58811593-c006dd80-8628-11e9-9ee6-063f887435ef.png">
 
-![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.49.55\ PM.png?raw=true)
+<img width="1999" alt="3" src="https://user-images.githubusercontent.com/25118092/58811603-c432fb00-8628-11e9-9b1a-ef821bc00122.png">
