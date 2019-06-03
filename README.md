@@ -29,14 +29,14 @@ Space         - return start properties.
 ## Screenshots
 
 ##### Input file :
-![Image1](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.49.04\ PM.png)
+![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.49.04\ PM.png)
 
 
 ##### Result:
 
-![Image2](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.48.23\ PM.png)
+![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.48.23\ PM.png)
 
 ##### Other images:
 
-![Image3](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.47.15\ PM.png)
-![Image4](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.49.55\ PM.png)
+![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.47.15\ PM.png)
+![Alt text](/Users/aperesad/Desktop/Screen\ Shot\ 2019-06-03\ at\ 4.49.55\ PM.png)
