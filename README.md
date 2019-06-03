@@ -31,7 +31,8 @@ Space         - return start properties.
 ##### Input file :
 
 
-![Alt text](/Users/aperesad/Desktop/2.png?raw=true)
+<img width="521" alt="2" src="https://user-images.githubusercontent.com/25118092/58811330-466eef80-8628-11e9-907f-25c47ab6b6ca.png">
+
 
 
 ##### Result:
