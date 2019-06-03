@@ -1,2 +1,2 @@
 # Fdf_project
-simple graphical visualizer
+simple visualizer build on Minilibx
